@@ -1,6 +1,6 @@
 # UMI. Chatbot para empresa de telecomunicaciones 
 
-Umi es el asistente virtual (chatbot) de TELMOBI (empresa de telecomunicaciones), diseñado para asistir a los usuarios de los distintos servicios que ofrece TELMOBI. 
+Umi es el asistente virtual (chatbot) de TELMOBI (empresa de telecomunicaciones), diseñado para asistir a los usuarios de los distintos servicios que ofrece. 
 
 ![image](https://user-images.githubusercontent.com/39386083/49196862-44af3100-f352-11e8-9dec-f4935b2feb4b.png)
 
